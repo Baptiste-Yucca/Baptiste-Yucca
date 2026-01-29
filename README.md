@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Baptiste-Yucca
-- 👀 I’m interested in C & Solidity
-- 🌱 My ytb channel : https://www.youtube.com/channel/UCOarG3pGPmYQa78U3RfSU6A
-
+- 👀 I’m interested in C, JS/TS & Solidity
 Any repo is under MIT licence, if not mentionned.
 
 <!---
