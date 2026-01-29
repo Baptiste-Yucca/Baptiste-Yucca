@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Baptiste-Yucca
 - 👀 I’m interested in C, JS/TS & Solidity
+
 Any repo is under MIT licence, if not mentionned.
 
 <!---
